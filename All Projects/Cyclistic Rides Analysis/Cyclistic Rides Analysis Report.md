@@ -115,9 +115,16 @@ After completing the data analysis, a dashboard was designed to clearly communic
 </figure>
 <br/><br/>
 
+## Act
+Now that I have finished creating my visualizations, I can act on my findings. The three top recommendations based on my analysis are: 
+* My conclusion based on my analysis is that the number of rides for member riders is greater than that of casual riders. Therefore, for casual riders to become members, the company can add some promotions on the membership enrollment.
+* The majority of riders are adults in the age range of 30 and 50. Therefore, the marketing team can create even where to invite people with other age ranges. This will be a motivation to obtain more customers.
+* The day of the week with maximum rides is Saturday for casual riders. Therefore, this day can be used to reach out to these riders and talk to them about the benefits of membership.
 
+** Thank you for taking the time to read this report! **
 
+** Please reach out for any updates. **
 
-## Author
+### Author
 [Edwige Songong](https://github.com/Songonge)
 

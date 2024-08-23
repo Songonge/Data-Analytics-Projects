@@ -76,11 +76,8 @@ I chose **Excel** to clean the data because it is easy to use and the dataset is
 Table 1: Total number of rides and average ride length for both casual riders and members – First Quarter of 2019.
 |      Year     |      2019     |
 | :-------------: | :-------------: |
-| Casual riders/ Members  | Casual Riders  |  Members  |
-| Total Counts of Rides   | 5934           |  339423   |
-| Total Rides             |            345357          |
-| Average of ride_length  | 0:37:01        |  0:13:52  |
-| Total Rides             |            0:14:15         |
+| Total Rides          |            345357          |
+| Average Ride Length  |            0:14:15         |
 
 
 

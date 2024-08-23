@@ -109,10 +109,7 @@ In the following table, I display the total number of daily rides for each rider
 | 7	| 1321|	29062	|	30383  |
 
 
-| Day of Week	| Casual Riders	| Member Riders	| Total Number of Rides per day |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| | Number of Rides	| Trip Duration	| Number of Rides	| Trip Duration | |
-|1	|976	|0:43:18	|23988	|0:16:43	|24964|
+
 
 
 ## Author

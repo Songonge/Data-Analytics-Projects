@@ -108,7 +108,8 @@ In the following table, I display the total number of daily rides for each rider
 | 6	| 874	|	59244	|	60118  |
 | 7	| 1321|	29062	|	30383  |
 
-
+After completing the data analysis, a dashboard was designed to clearly communicate the insights. That is shown below.
+![Cyclistic Rides Analysis Dashboard](All Projects/Cyclistic Rides Analysis/Cyclistic Ride Analysis Dashboard.png)
 
 
 

@@ -72,24 +72,47 @@ I chose **Excel** to clean the data because it is easy to use and the dataset is
   * I calculated the *average ride_length* for users by *day_of_week* by adding *day_of_week* under *Columns*, *member_casual* under *Rows*, and *Average* of *ride_length* under *Values*
   * I calculated the *number of rides* for users by *day_of_week* by adding *Count of ride_id* to *Values*.
 
-*	Performing these descriptive analysis steps helped make some initial observations such as, the day with the most rides is *Thursday*. The table below was designed to show the difference between both years 2019 and 2020.
-Table 1: Total number of rides and average ride length for both casual riders and members – First Quarter of 2019.
+* Performing these descriptive analysis steps helped make some initial observations such as, the day with the most rides is *Thursday*. The table below was designed to show the difference between casual riders and members.
 
-|      Year     |      2019     |
-| :-------------: | :-------------: |
-| Total Rides          |            345357          |
-| Average Ride Length  |            0:14:15         |
+|      Calculations     |      Casual Riders    | Members |
+| :-------------: | :-------------: | :-------------: |
+| Total Count of Rides   |      5934    | 339423 |
+| Average Ride Length  | 0:37:01	       | 0:13:52   |
 
-* Level 1
-  * Level 2
-    * Level 3
-      * Level 4
-        * Level 5
-          * Level 6
-            * Level 7
-              * Level 8
+  * From the above table, it can be seen that the total number of trips for members was far greater than those for casual riders in the first quarter of 2019.
+
+The following table shows the max and min rides for both rider types.
+
+|      Calculations     |      Casual Riders    | Members |
+| :-------------: | :-------------: | :-------------: |
+| Max number of rides   |      1321    | 63519 |
+| Day of max rides | Saturday	       | Thursday   |
+| Min number of rides   |      568    | 23988 |
+| Day of min rides | Monday	       | Sunday   |
+
+## Share
+* I was able to answer the question of how annual members and casual riders use Cyclistic bikes differently. The analysis helped me see that many riders have memberships. In addition, the ride length for casual riders was longer than that of members.
+* The story that my data tells is that for the first quarter of 2019, the data tells that the maximum number of rides is on Thursday for members and Saturday for casual riders. Looking at Table 4, we can say that the number of rides decreased from January to February and then considerably increased from February to March 2019.
+* Data visualization given by the Dashboard in Figure 1 helped me communicate and share my findings. This is because it provides details and directly shows the summary of data in charts, graphs, and figures which are easy to understand.
+* Supporting visualizations and key findings
+
+In the following table, I display the total number of daily rides for each rider type.
+
+| Day of Week	| Casual Riders	| Member Riders	| Total Number of Rides per day |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| 1	| 976	| 23988	|  24964  |
+| 2	| 568	|	48161	|	48729  |
+| 3	| 783	|	57928	|	58711  |
+| 4	| 628	|	57521	|	58149  |
+| 5	| 784	|	63519	|	64303  |
+| 6	| 874	|	59244	|	60118  |
+| 7	| 1321|	29062	|	30383  |
 
 
+| Day of Week	| Casual Riders	| Member Riders	| Total Number of Rides per day |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| | Number of Rides	| Trip Duration	| Number of Rides	| Trip Duration | |
+|1	|976	|0:43:18	|23988	|0:16:43	|24964|
 
 
 ## Author

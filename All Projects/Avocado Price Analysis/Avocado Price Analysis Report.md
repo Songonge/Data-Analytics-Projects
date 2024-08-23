@@ -1,6 +1,6 @@
 # Project: Analyze the avocado price per region in the United States
 
-##Introduction
+## Introduction
 This project involves the analysis of avocado prices per given region in the United States. The data were obtained from Kaggle. The analysis aims to check what region has a high price of avocado and the number of bags of avocados sold in the years 2015 to 2018.  
 
 The following bullets list the insights I wished to derive:
@@ -23,131 +23,29 @@ The tool I used to clean the data was Power BI because its tools are easy to wor
 ### 4.	Data Analysis and Visualization
 In Power BI, I used Visualizations to create a dashboard as shown in Figure 1. I used a Clustered Column Chart, a Clustered Bar Chart, a Donut Chart, a Line Chart, a Matrix, and Cards. My Charts were assembled and made interactive through the use of Slicers. These Slicers are powerful tools to use if you want to make your dashboard dynamic. In this case, if you are working within a team, it will be easy for you to work collaboratively with your team members. They will be able to add or modify the dashboard to reflect what is expected. 
 
-
-
-
-
-
-## Introduction
-
-Cyclistic is a company in Chicago that offers trips to customers daily. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the purpose of this project is to understand how casual riders and annual members use Cyclistic bikes differently. This will help design a new marketing strategy to convert casual riders into annual members.
-
-## Problem
-The major problem is that Cyclistic wants more customers to sign up for membership instead of being casual riders. 
-
-As a junior data analyst working with the marketing analyst team at Cyclistic, the director of marketing and my manager have asked me to answer the question: **How do annual members and casual riders use Cyclistic bikes differently?**
-
-Answering the above question will help the marketing team identify the reasons why casual riders do not sign up for membership. It will also help propose new strategies to motivate casual riders to sign up for membership.
-
-## Project Aim
-Design marketing strategies aimed at converting Cyclistic’s casual riders into annual members. 
-
-This report will follow a roadmap to highlight the following deliverables:
-1.	A clear statement of the business task 
-2.	A description of all data sources used 
-3.	Documentation of any cleaning or manipulation of data 
-4.	A summary of my analysis 
-5.	Supporting visualizations and key findings
-6.	My top three recommendations based on my analysis
-   
-## Business Task
-
-**Objective**: Convert Cyclistic’s casual riders into annual members.
-
-**Scope**: Use data analytics to identify:
-*	Key factors that prevent casual riders from becoming annual members.
-*  Factors that will make casual riders interested in becoming annual members.
-*	Patterns in riders' behaviors and product performance.
-*	Opportunities to increase Cyclistic customer satisfaction.
-
-**Key Questions**
-*	What is the problem I am trying to solve?
-*	How can my insights drive business decisions?
-*	What are the common characteristics of annual members?
-  
-**Expected Outcomes**
-*	A detailed report highlighting actionable insights.
-*	Recommendations for targeted marketing strategies.
-*	A dashboard providing real-time customer data.
-  
-**Success Metrics**
-*	Increase in Cyclistic riders.
-*	Increase in Cyclistic annual memberships.
-*	Conversion of many casual riders to annual members.
-
-### 1. Data Acquisition and Preparation
-*	I used the data of Cyclistic trip data made available by Motivate International Inc. 
-*	Data for the first quarter of 2019 was downloaded for the Cyclistic trip data.  
-
-### 2.	Data Cleaning and Processing
-I chose **Excel** to clean the data because it is easy to use and the dataset is not large.  The following steps were performed:
-*	I sorted and filtered data to remove unnecessary and inaccurate data. 
-*	I removed duplicate
-*	I removed blanks or rows with empty cells to ensure the remaining data could be used.
-*	Fixed rows and columns by verifying that columns with numbers were all numbers by converting text in some cells into numbers.
-*	Checked the data for errors.
-*	Ensured that each field had the appropriate data type by performing some conversions where needed. 
-*	The raw data were transformed and changed into a standard data format suitable for analysis, storage, and easy use.
-
-### 3.	Data Analysis and Visualization
-* The following calculations were performed in individual files first such as:
-  * Mean of ride_length: =AVERAGE(D2:D32767), this gave **0:14:55**
-  * Max of ride_length: =MAX(D2:D32767), this gave **232:09:59**
-  * Mode of day_of_week: =MODE(E2:E32767), this gave **5**
-     
-* A pivot table was created to quickly calculate and visualize the data.
-  * I calculated the *average ride_length* for members and casual riders by adding *member_casual* under *Rows* and *ride_length* under *Values* and selecting *Average* from the *Values Field Settings*.
-  * I calculated the *average ride_length* for users by *day_of_week* by adding *day_of_week* under *Columns*, *member_casual* under *Rows*, and *Average* of *ride_length* under *Values*
-  * I calculated the *number of rides* for users by *day_of_week* by adding *Count of ride_id* to *Values*.
-
-* Performing these descriptive analysis steps helped make some initial observations such as, the day with the most rides is *Thursday*. The table below was designed to show the difference between casual riders and members.
-
-|      Calculations     |      Casual Riders    | Members |
-| :-------------: | :-------------: | :-------------: |
-| Total Count of Rides   |      5934    | 339423 |
-| Average Ride Length  | 0:37:01	       | 0:13:52   |
-
-  * From the above table, it can be seen that the total number of trips for members was far greater than those for casual riders in the first quarter of 2019.
-
-The following table shows the max and min rides for both rider types.
-
-|      Calculations     |      Casual Riders    | Members |
-| :-------------: | :-------------: | :-------------: |
-| Max number of rides   |      1321    | 63519 |
-| Day of max rides | Saturday	       | Thursday   |
-| Min number of rides   |      568    | 23988 |
-| Day of min rides | Monday	       | Sunday   |
-
-## Share
-* I was able to answer the question of how annual members and casual riders use Cyclistic bikes differently. The analysis helped me see that many riders have memberships. In addition, the ride length for casual riders was longer than that of members.
-* The story that my data tells is that for the first quarter of 2019, the data tells that the maximum number of rides is on Thursday for members and Saturday for casual riders. Looking at Table 4, we can say that the number of rides decreased from January to February and then considerably increased from February to March 2019.
-* Data visualization given by the Dashboard in Figure 1 helped me communicate and share my findings. This is because it provides details and directly shows the summary of data in charts, graphs, and figures which are easy to understand.
-* Supporting visualizations and key findings
-
-In the following table, I display the total number of daily rides for each rider type.
-
-| Day of Week	| Casual Riders	| Member Riders	| Total Number of Rides per day |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| 1	| 976	| 23988	|  24964  |
-| 2	| 568	|	48161	|	48729  |
-| 3	| 783	|	57928	|	58711  |
-| 4	| 628	|	57521	|	58149  |
-| 5	| 784	|	63519	|	64303  |
-| 6	| 874	|	59244	|	60118  |
-| 7	| 1321|	29062	|	30383  |
-
-After completing the data analysis, a dashboard was designed to clearly communicate the insights. That is shown below.
+The figure below shows the dashboard which was built based on the analysis of the data. 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Cyclistic Rides Analysis/Cyclistic Ride Analysis Dashboard.png" width=100% height=100% alt="alt text">
-  <figcaption>Figure: Cyclistic Rides Analysis Dashboard</figcaption>
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Avocado Price Analysis/Avocado Price Analysis Dashboard.png" width=100% height=100% alt="alt text">
+  <figcaption>Figure: Avocado Price Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>
 
-## Act
-Now that I have finished creating my visualizations, I can act on my findings. The three top recommendations based on my analysis are: 
-* My conclusion based on my analysis is that the number of rides for member riders is greater than that of casual riders. Therefore, for casual riders to become members, the company can add some promotions on the membership enrollment.
-* The majority of riders are adults in the age range of 30 and 50. Therefore, the marketing team can create even where to invite people with other age ranges. This will be a motivation to obtain more customers.
-* The day of the week with maximum rides is Saturday for casual riders. Therefore, this day can be used to reach out to these riders and talk to them about the benefits of membership.
+### 5.	Data Interpretation
+This step allowed me to make sense of my analysis and visualization. The following insights were derived from the analysis and the dashboard.
+*	The year 2017 had the maximum number of avocado bags sold (5722) compared to 5615 in 2015 and 5616 in 2016. On the contrary, the total number of avocado bags sold in 2018 considerably decreased to 1296. Both types of avocado (organic and conventional) had a similar total number of bags sold.
+*	The two regions having the highest average price of avocado were Hartford Springfield and San Francisco with $1.82 and $1.80, respectively.
+*	The region having the lowest average price of avocado was Houston with $1.05.
+*	Although both types of avocado had a similar total number of bags sold, the average price of the organic type was greater than that of the conventional type: $1.65 for organic and $1.16 for conventional.  
+*	Based on the data, the total number of avocado bags sold per region was equal to 338 from 2015 to 2018, except in West Texas New Mexico which was 335. 
+*	From the dashboard, the maximum average price of avocado is $3.25 and the minimum average price is $0.44.
+
+### 6.	Recommendations
+The three top recommendations based on my analysis are: 
+*	To invest in the avocado business and have more profit, you can go to Hartford Springfield and San Francisco regions.
+*	If you are looking for the region that has the lowest average price of avocado or any other fruits, you should go to Houston.
+*	Both organic and conventional avocado types have similar bags sold per year. Therefore, it does not matter which type you choose to invest in.
+
+
 
 **Thank you for taking the time to read this report!**
 

@@ -74,6 +74,7 @@ I chose **Excel** to clean the data because it is easy to use and the dataset is
 
 *	Performing these descriptive analysis steps helped make some initial observations such as, the day with the most rides is *Thursday*. The table below was designed to show the difference between both years 2019 and 2020.
 Table 1: Total number of rides and average ride length for both casual riders and members – First Quarter of 2019.
+
 |      Year     |      2019     |
 | :-------------: | :-------------: |
 | Total Rides          |            345357          |

@@ -110,7 +110,7 @@ In the following table, I display the total number of daily rides for each rider
 
 After completing the data analysis, a dashboard was designed to clearly communicate the insights. That is shown below.
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Cyclistic Rides Analysis/Cyclistic Ride Analysis Dashboard.png" width=75% height=75% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Cyclistic Rides Analysis/Cyclistic Ride Analysis Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Cyclistic Rides Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>

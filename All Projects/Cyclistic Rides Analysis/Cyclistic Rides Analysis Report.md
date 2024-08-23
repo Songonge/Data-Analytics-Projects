@@ -28,7 +28,7 @@ This report will follow a roadmap to highlight the following deliverables:
 
 **Scope**: Use data analytics to identify:
 *	Key factors that prevent casual riders from becoming annual members.
-* Factors that will make casual riders interested in becoming annual members.
+*  Factors that will make casual riders interested in becoming annual members.
 *	Patterns in riders' behaviors and product performance.
 *	Opportunities to increase Cyclistic customer satisfaction.
 
@@ -62,12 +62,12 @@ I chose **Excel** to clean the data because it is easy to use and the dataset is
 *	The raw data were transformed and changed into a standard data format suitable for analysis, storage, and easy use.
 
 ### 3.	Data Analysis and Visualization
-*  The following calculations were performed in individual files first such as:
+* The following calculations were performed in individual files first such as:
   * Mean of ride_length: =AVERAGE(D2:D32767), this gave **0:14:55**
   * Max of ride_length: =MAX(D2:D32767), this gave **232:09:59**
   * Mode of day_of_week: =MODE(E2:E32767), this gave **5**
      
-*	A pivot table was created to quickly calculate and visualize the data.
+* A pivot table was created to quickly calculate and visualize the data.
   * I calculated the *average ride_length* for members and casual riders by adding *member_casual* under *Rows* and *ride_length* under *Values* and selecting *Average* from the *Values Field Settings*.
   * I calculated the *average ride_length* for users by *day_of_week* by adding *day_of_week* under *Columns*, *member_casual* under *Rows*, and *Average* of *ride_length* under *Values*
   * I calculated the *number of rides* for users by *day_of_week* by adding *Count of ride_id* to *Values*.

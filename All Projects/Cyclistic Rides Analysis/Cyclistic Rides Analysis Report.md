@@ -80,6 +80,14 @@ Table 1: Total number of rides and average ride length for both casual riders an
 | Total Rides          |            345357          |
 | Average Ride Length  |            0:14:15         |
 
+* Level 1
+  * Level 2
+    * Level 3
+      * Level 4
+        * Level 5
+          * Level 6
+            * Level 7
+              * Level 8
 
 
 

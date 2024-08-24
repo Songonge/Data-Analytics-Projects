@@ -70,9 +70,9 @@ Based on the insights from the sales analysis, here are several recommendations 
 *	Concentrate marketing efforts and allocate resources to the top five cities with the most sales (Los Angeles, San Francisco, Atlanta, New York City, and Boston). Tailor advertising and promotional strategies to the preferences and behaviors of customers in these regions. In addition, analyze factors contributing to high sales in these cities and replicate successful strategies in other potential high-growth areas to expand market reach.
 *	Regularly collect and analyze customer feedback to identify pain points and areas for improvement. Use these insights to refine product offerings, customer service, and overall sales strategies.
   
-By implementing these recommendations, the organization can optimize its sales strategies, improve inventory management, enhance customer experience, and maximize revenue across different time periods and locations. 
+By implementing these recommendations, the organization can optimize its sales strategies, improve inventory management, enhance customer experience, and maximize revenue across different periods and locations. 
 
-**Thank you for taking the time to read this report!**
+**Thank you for taking the time to read this report!** 
 
 **Please reach out for any updates.**
 

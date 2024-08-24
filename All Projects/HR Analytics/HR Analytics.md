@@ -30,7 +30,7 @@ The first row of the data was used as headers using the option Use First Row as 
 
 ### 3.	Data Analysis and Visualization
 
-#### HR Attrition Dashboard
+#### A. HR Attrition Dashboard
 In Power BI, I used Visualizations to create five dashboards. The first dashboard about **HR Attrition** provides an overview of all four dashboards I created. This is shown in Figure 1.
 
 <figure>
@@ -39,7 +39,7 @@ In Power BI, I used Visualizations to create five dashboards. The first dashboar
 </figure>
 <br/><br/>
 
-#### Demographics Dashboard
+#### B. Demographics Dashboard
 The second dashboard about Demographics summarizes employee statistics is shown in Figure 2. The following steps were performed. 
 1.	I calculated the total number of employees.
 2.	I created a clustered bar chart for total attrition by the education field.
@@ -48,12 +48,12 @@ Summing all the 1s gave the total of 237 attrition count. Then, subtracting this
 4.	I used groups to aggregate certain values together to form meaningful subsets. These were done for Age (18-30, 31-45, 46-60), Work-Life Balance (1 as "Bad", 2 as "Average", 3 as "Good", and 4 as "Excellent"), and Distance From Home (1-10 as “Near-by”, 11-20 as “Far” and 21 – 29 as “Very far”).
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/Demographics Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/Demographic Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure 2: Demographics Dashboard</figcaption>
 </figure>
 <br/><br/>
 
-#### Turnover Analysis I Dashboard
+#### C. Turnover Analysis I Dashboard
 The third and fourth dashboards about Turnover Analysis I and II contain details about employee attrition. The steps below were performed:
 1.	Created a stacked bar chart for Total attrition by job role distinguishing males and females.
 2.	Created a stacked column chart for Total attrition by business travel.
@@ -62,12 +62,12 @@ The third and fourth dashboards about Turnover Analysis I and II contain details
 5.	Created a Treemap for Total attrition by job role counting the total number of “Yes” attritions for each category.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/Turnover Analysis I Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/Turnover Analysis 1 Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure 3: Turnover Analysis I Dashboard</figcaption>
 </figure>
 <br/><br/>
 
-#### Turnover Analysis II Dashboard
+#### D. Turnover Analysis II Dashboard
 The fourth dashboard about Turnover Analysis II contains additional details about employee attrition. The dashboard is shown in Figure 4. I performed the steps below:
 1.	Created a clustered column chart for total attrition by age and gender.
 2.	Created a pie chart for total attrition by performance and rating.
@@ -76,12 +76,12 @@ The fourth dashboard about Turnover Analysis II contains additional details abou
 5.	Created a line chart for monthly income and attrition by job role.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/Turnover Analysis II Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/Turnover Analysis 2 Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure 3: Turnover Analysis II Dashboard</figcaption>
 </figure>
 <br/><br/>
 
-#### Employee Wellness Dashboard
+#### E. Employee Wellness Dashboard
 The fifth dashboard about Employee Wellness focuses on employee satisfaction regarding several factors. Figure 5 presents the dashboard which was built following the steps below:
 1.	Created a clustered column chart for Total attrition by environmental satisfaction. Note that Environmental satisfaction was rated on a scale ranging from 1 to 4 (1 for "Very Dissatisfied," 2 for "Dissatisfied," 3 for "Satisfied," and 4 for "Very Satisfied").
 2.	Created a clustered bar chart for Total attrition by job involvement. The job involvement was also grouped (1 for "Very Low," 2 for "Low," 3 for "Moderate," and 4 for "High").

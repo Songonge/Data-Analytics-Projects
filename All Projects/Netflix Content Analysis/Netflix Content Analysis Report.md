@@ -5,13 +5,13 @@ This project provides a profound learning experience in data analytics by utiliz
 
 ### Business Overview/Problem
 Netflix has been providing content to its customers. It has over 8000 movies or TV shows available on its platform, and as of mid-2021, they have over 200M Subscribers globally. The key obstacles the company encounters include:
-A. **Limited Data Analysis**: The lack of data analysis tools hinders the company's ability to gain insights into customer preferences and country trends.
-B. **Resource Allocation**: Netflix struggles to allocate resources efficiently in each country, leading to customer dissatisfaction.
+1. **Limited Data Analysis**: The lack of data analysis tools hinders the company's ability to gain insights into customer preferences and country trends.
+2. **Resource Allocation**: Netflix struggles to allocate resources efficiently in each country, leading to customer dissatisfaction.
 
 ### Rationale for the Project
-A. **Basic Data Insights**: Enable the company to obtain fundamental data insights, including watched trends, product performance, and customer preferences.
-B. **Cost-Efficiency**: Provide a cost-efficient solution that aligns with the company's budget constraints while delivering essential data analysis capabilities.
-C. **Streamlined Resource Allocation**: Improve resource allocation by leveraging data-driven decisions to maximize customer satisfaction.
+1. **Basic Data Insights**: Enable the company to obtain fundamental data insights, including watched trends, product performance, and customer preferences.
+2. **Cost-Efficiency**: Provide a cost-efficient solution that aligns with the company's budget constraints while delivering essential data analysis capabilities.
+3. **Streamlined Resource Allocation**: Improve resource allocation by leveraging data-driven decisions to maximize customer satisfaction.
 
 The key task to conduct in this analysis is to understand what content is available in different countries and provide recommendations regarding the types of content that are the most watched. Some interesting task ideas are:
 1.	Understanding what content is available in different countries
@@ -21,9 +21,9 @@ The key task to conduct in this analysis is to understand what content is availa
  
 ## Aim of the Project
 The project aims to achieve the following specific objectives:
-A.	Implement basic data analysis techniques to gain insights into watched trends, product performance, and customer preferences.
-B.	Create user-friendly dashboards from Netflix data and derive insights.
-C.	Carry out basic data analysis and dashboard utilization to enhance decision-making capabilities.
+1.	Implement basic data analysis techniques to gain insights into watched trends, product performance, and customer preferences.
+2.	Create user-friendly dashboards from Netflix data and derive insights.
+3.	Carry out basic data analysis and dashboard utilization to enhance decision-making capabilities.
  
 ## Data Description
 This dataset consists of listings of all the movies and TV shows available on Netflix from 2008 to 2021, along with details such as cast, directors, ratings, release year, duration, etc. The dataset contains 10 columns and 8791 rows described as follows:
@@ -43,24 +43,24 @@ The analysis tool for this project is basic and focused on data analysis using M
 
 ## Project Scope
 * **Data Gathering and Integration**
-  A. Download Netflix content data from Kaggle.
-  B. Store the data in a secure folder for further steps.
+  1. Download Netflix content data from Kaggle.
+  2. Store the data in a secure folder for further steps.
 
 * **Data Cleaning**: To clean the data, I will
-  A. Check Nulls across all columns
-  B. Remove duplicates 
-  C. Populate missing rows where necessary
-  D. Delete unneeded columns
-  E. Split columns appropriately where necessary
+  1. Check Nulls across all columns
+  2. Remove duplicates 
+  3. Populate missing rows where necessary
+  4. Delete unneeded columns
+  5. Split columns appropriately where necessary
 
 * **Data Analysis In Excel**
-  A. Utilize Excel's built-in features like pivot tables and charts to analyze content data.
-  B. Identify customers’ preferences.
-  C. Identify trends by visualizing data through simple charts and graphs.
+  1. Utilize Excel's built-in features like pivot tables and charts to analyze content data.
+  2. Identify customers’ preferences.
+  3. Identify trends by visualizing data through simple charts and graphs.
  
 * **Dashboard Development**
-  A. Create an Excel-based dashboard to provide an overview of content.
-  B. Include key metrics and charts to monitor watched trends by type, country, and content category.
+  1. Create an Excel-based dashboard to provide an overview of content.
+  2. Include key metrics and charts to monitor watched trends by type, country, and content category.
 
 * **Data Analysis and Visualization**
 The analysis was performed in Excel. To do so,  

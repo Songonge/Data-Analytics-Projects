@@ -4,7 +4,7 @@
 This project about HR Analytics focuses on data analytics which aims at evaluating the current human resources practices within the organization, identifying key areas for improvement, and providing actionable recommendations aimed at enhancing workforce efficiency, employee satisfaction, and overall organizational performance. Power Query in Power BI will be used to clean and transform the data. Then, dashboards will be built to communicate critical insights.
 
 ## Project Aim
-Delve into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance. The project seeks to address pressing questions and uncover meaningful conclusions based on data.    
+Delve into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance. The project seeks to address pressing questions and uncover meaningful conclusions based on data.   
 
 ## Project Description
 This project involves a detailed analysis of various aspects of HR, including demographics, employee turnover analysis, and employee wellness. Details are given regarding employee statistics, attrition, performance management, training and development, compensation and benefits, and employee retention. The analysis will utilize both qualitative and quantitative data to provide a comprehensive understanding of the HR landscape. Overall, this project demonstrates my capacity to work with and extract meaning from large datasets, allowing me to provide insights into workforce diversity and communicate patterns for informed decision-making and enhanced HR practices.  

@@ -47,7 +47,7 @@ The analysis was performed in Tableau Desktop. To do so,
 *	All the charts were assembled and made interactive through the use of filters to display Donor potential, Demographics, and years of donations. 
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Donation Analysis/Donation Analysis Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Donation Analysis/Donation Analysis.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Donation Analysis Dashboard</figcaption>
 </figure>
 <br/><br/> 
@@ -69,7 +69,7 @@ The Donation Analysis dashboard provides a comprehensive overview of donation pa
 *	2017: Noticeable drop from previous years.
 
 #### d. Donation by State
-*	Florida: Top state for donations and leading state in terms of donation amounts.https://github.com/Songonge/Data-Analytics-Projects/tree/main/All%20Projects/Donation%20Analysis
+*	Florida: Top state for donations and leading state in terms of donation amounts.
 *	North Carolina, Georgia, Virginia: Follow closely.
 
 #### e. Top 10 Cities by Donation

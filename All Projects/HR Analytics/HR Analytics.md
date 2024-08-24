@@ -121,5 +121,10 @@ Based on the insights from the HR analysis report, here are several recommendati
 
 By implementing these recommendations, the organization can address key insights from the HR analysis, leading to a more satisfied, efficient, and productive workforce.
 
+**Thank you for taking the time to read this report!**
 
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge)
 

@@ -48,7 +48,7 @@ The analysis tool for this project is basic and focused on data analysis using M
 
 * **Data Cleaning**: To clean the data, I will
   A. Check Nulls across all columns
-  B. Remove duplicates
+  B. Remove duplicates 
   C. Populate missing rows where necessary
   D. Delete unneeded columns
   E. Split columns appropriately where necessary

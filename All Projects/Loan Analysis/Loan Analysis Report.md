@@ -22,7 +22,8 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 *	Then the dataset was added by uploading the Sample_Top_Respondents file (previously downloaded).
 
 ### 3.	Data Analysis and Visualization
-* **Total Loan Amount Over Time**
+
+#### Total Loan Amount Over Time
   
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Month.png" width=50% height=50% alt="alt text">
@@ -36,7 +37,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * Loan levels exhibit strong seasonal patterns and consistent year-over-year growth. 
   * Exploring opportunities to streamline lending and promote responsible personal finance practices has become increasingly important. 
 	
-* **Loan Amount by Grade**
+#### Loan Amount by Grade
   
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Grade.png" width=50% height=50% alt="alt text">
@@ -48,7 +49,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * Borrowers with grades of E, F, and G had significantly lower total loan balances, with Ggrade having just $1,689,225 in debt.  
   * Analyzing lending patterns across credit tiers can provide insights for helping more customers improve their financial wellness through debt consolidation or programs tailored to their credit needs. 
 
-* **Loan Purpose Overview**
+#### Loan Purpose Overview
 
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Purpose.png" width=50% height=50% alt="alt text">
@@ -61,7 +62,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * Other, credit card, and vacation loans had significantly lower totals.  
   * Exploring opportunities to refinance high-interest small business, housing, and debt consolidation loans could help borrowers reduce costs and better manage their finances in line with the presentation's objective. 
 
-* **State Comparison**
+#### State Comparison
 
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan By State.png" width=50% height=50% alt="alt text">

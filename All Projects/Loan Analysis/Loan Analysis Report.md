@@ -26,7 +26,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Month.png" width=50% height=50% alt="alt text">
-  <figcaption>Figure: Sales Analysis Dashboard</figcaption>
+  <figcaption>Figure 1: Total Loan Amount Over Time </figcaption>
 </figure>
 <br/><br/>
 
@@ -40,7 +40,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Grade.png" width=50% height=50% alt="alt text">
-  <figcaption>Figure: Sales Analysis Dashboard</figcaption>
+  <figcaption>Figure 2: Loan Amount by Grade</figcaption>
 </figure>
 <br/><br/>
 
@@ -52,7 +52,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Purpose.png" width=50% height=50% alt="alt text">
-  <figcaption>Figure: Sales Analysis Dashboard</figcaption>
+  <figcaption>Figure 3: Loan Amount by Purpose </figcaption>
 </figure>
 <br/><br/>
 
@@ -65,7 +65,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan By State.png" width=50% height=50% alt="alt text">
-  <figcaption>Figure: Sales Analysis Dashboard</figcaption>
+  <figcaption>Figure 4: Total Loan Amount by State</figcaption>
 </figure>
 <br/><br/>
 

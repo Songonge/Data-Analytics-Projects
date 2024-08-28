@@ -101,4 +101,4 @@ The presentation provided a comprehensive analysis of loan trends in different s
 **Please reach out for any updates.**
 
 ### Author
-[Edwige Songong](https://github.com/Songonge)
+[Edwige Songong](https://github.com/Songonge) Powered by [AWS Summit](https://aws.amazon.com/events/summits/washington-dc/)

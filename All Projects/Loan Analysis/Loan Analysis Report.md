@@ -23,7 +23,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 
 ### 3.	Data Analysis and Visualization
 
-#### Total Loan Amount Over Time
+#### a. Total Loan Amount Over Time
   
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Month.png" width=50% height=50% alt="alt text">
@@ -37,7 +37,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * Loan levels exhibit strong seasonal patterns and consistent year-over-year growth. 
   * Exploring opportunities to streamline lending and promote responsible personal finance practices has become increasingly important. 
 	
-#### Loan Amount by Grade
+#### b. Loan Amount by Grade
   
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Grade.png" width=50% height=50% alt="alt text">
@@ -49,7 +49,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * Borrowers with grades of E, F, and G had significantly lower total loan balances, with Ggrade having just $1,689,225 in debt.  
   * Analyzing lending patterns across credit tiers can provide insights for helping more customers improve their financial wellness through debt consolidation or programs tailored to their credit needs. 
 
-#### Loan Purpose Overview
+#### c. Loan Purpose Overview
 
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Purpose.png" width=50% height=50% alt="alt text">
@@ -62,7 +62,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * Other, credit card, and vacation loans had significantly lower totals.  
   * Exploring opportunities to refinance high-interest small business, housing, and debt consolidation loans could help borrowers reduce costs and better manage their finances in line with the presentation's objective. 
 
-#### State Comparison
+#### d. State Comparison
 
 <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan By State.png" width=50% height=50% alt="alt text">
@@ -77,19 +77,19 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
 
 ### 4.	Recommendations
 
-* **Recommendations for State A**
+#### i. Recommendations for State A
 This section aims to provide targeted recommendations for a high-debt state. A graph showing forecasted loan trends for State A is needed to effectively visualize potential debt growth and identify opportunities for intervention. None of the available graphs appear to match this ideal visual or support the objective of recommending customized solutions. For example, with this forecast graph, the text could explain that projecting future loan amounts in State A reveals the need for programs tailored to its residents’ specific financial challenges.
 
-* **Recommendations for State B**
+#### ii. Recommendations for State B
 This section aims to provide targeted recommendations for State B. A graph showing the loan purpose breakdown for residents in this state would help achieve the objective by visualizing how funds are currently allocated. None of the available visuals appear tailored to this need. For example, with this ideal visual, one could say that residents in State B would benefit from financial wellness courses focused on discretionary spending habits, as the graph indicates a pattern of high-interest debt in that category.
 
-* **Self-Service Debt Tools**
+#### iii. Self-Service Debt Tools
 To better assist customers in improving their financial wellness, our company has developed a suite of online debt management tools. These Self-Service resources budgeting assistance, loan payment calculators, and refinancing options to help users make more informed financial decisions at their own convenience. Through accessible debt resources, our goal is to empower users to take control of their financial obligations.
 
-* **Virtual Financial Counseling**
+#### iv. Virtual Financial Counseling
 Virtual Financial Counseling offers a personalized approach to resolving debt-related issues. Through individualized sessions, certified counselors can evaluate a client’s unique financial circumstances and recommend tailored strategies. This specialized guidance provides comprehensive debt solutions for those facing complex debt management needs.
 
-* **Call to Action**
+#### v. Call to Action
 It is time for change. By utilizing the resources now available, individuals can take important steps to better their financial future and ease the burden of debt. With tools for guidance and support, audiences hold the power to chart a new course toward greater financial wellness.
 
 ##	Conclusion

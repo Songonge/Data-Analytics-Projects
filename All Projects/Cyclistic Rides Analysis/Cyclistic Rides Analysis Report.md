@@ -1,4 +1,20 @@
-# Cyclistic Rides Analysis Project
+# Cyclistic Rides Analysis
+
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Problem](#problem)
+3. [Project Aim](#projectaim)
+4. [Business Task](#businesstask)
+   * [Project Objective](#projectobjective)
+   * [Project Scope](#projectscope)
+   * [Key Questions](#keyquestions)
+   * [Expected Outcomes](#expectedoutcomes)
+   * [Success Metrics](#successmetrics)
+5. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
+6. [Data Cleaning and Processing](#datacleaningandprocessing)
+8. [Data Analysis and Visualization](#dataanalysisandvisualization)
+9. [Share](#share)
+10. [Act](#act)
 
 ## Introduction
 
@@ -24,34 +40,36 @@ This report will follow a roadmap to highlight the following deliverables:
    
 ## Business Task
 
-**Objective**: Convert Cyclistic’s casual riders into annual members.
+### Project Objective 
+Convert Cyclistic’s casual riders into annual members.
 
-**Scope**: Use data analytics to identify:
+### Project Scope
+Use data analytics to identify:
 *	Key factors that prevent casual riders from becoming annual members.
 *  Factors that will make casual riders interested in becoming annual members.
 *	Patterns in riders' behaviors and product performance.
 *	Opportunities to increase Cyclistic customer satisfaction.
 
-**Key Questions**
+### Key Questions
 *	What is the problem I am trying to solve?
 *	How can my insights drive business decisions?
 *	What are the common characteristics of annual members?
   
-**Expected Outcomes**
+### Expected Outcomes
 *	A detailed report highlighting actionable insights.
 *	Recommendations for targeted marketing strategies.
 *	A dashboard providing real-time customer data.
   
-**Success Metrics**
+### Success Metrics
 *	Increase in Cyclistic riders.
 *	Increase in Cyclistic annual memberships.
 *	Conversion of many casual riders to annual members.
 
-### 1. Data Acquisition and Preparation
+## Data Acquisition and Preparation
 *	I used the data of Cyclistic trip data made available by Motivate International Inc. 
 *	Data for the first quarter of 2019 was downloaded for the Cyclistic trip data.  
 
-### 2.	Data Cleaning and Processing
+## Data Cleaning and Processing
 I chose **Excel** to clean the data because it is easy to use and the dataset is not large.  The following steps were performed:
 *	I sorted and filtered data to remove unnecessary and inaccurate data. 
 *	I removed duplicate
@@ -61,16 +79,16 @@ I chose **Excel** to clean the data because it is easy to use and the dataset is
 *	Ensured that each field had the appropriate data type by performing some conversions where needed. 
 *	The raw data were transformed and changed into a standard data format suitable for analysis, storage, and easy use.
 
-### 3.	Data Analysis and Visualization
+## Data Analysis and Visualization
 * The following calculations were performed in individual files first such as:
   * `Mean of ride_length: =AVERAGE(D2:D32767)`, this gave `0:14:55`
   * `Max of ride_length: =MAX(D2:D32767)`, this gave `232:09:59`
   * `Mode of day_of_week: =MODE(E2:E32767)`, this gave `5`
      
 * A pivot table was created to quickly calculate and visualize the data.
-  * I calculated the *average ride_length* for members and casual riders by adding *member_casual* under *Rows* and *ride_length* under *Values* and selecting *Average* from the *Values Field Settings*.
-  * I calculated the *average ride_length* for users by *day_of_week* by adding *day_of_week* under *Columns*, *member_casual* under *Rows*, and *Average* of *ride_length* under *Values*
-  * I calculated the *number of rides* for users by *day_of_week* by adding *Count of ride_id* to *Values*.
+  * I calculated the `average ride_length` for members and casual riders by adding `member_casual` under `Rows` and `ride_length` under `Values` and selecting *Average* from the `Values Field Settings`.
+  * I calculated the `average ride_length` for users by `day_of_week` by adding `day_of_week` under `Columns`, `member_casual` under `Rows`, and `Average` of `ride_length` under `Values`
+  * I calculated the `number of rides` for users by `day_of_week` by adding `Count of ride_id` to `Values`.
 
 * Performing these descriptive analysis steps helped make some initial observations such as, the day with the most rides is *Thursday*. The table below was designed to show the difference between casual riders and members.
 
@@ -121,6 +139,8 @@ Now that I have finished creating my visualizations, I can act on my findings. T
 * Based on my analysis, my conclusion is that the number of rides for member riders is greater than that of casual riders. Therefore, for casual riders to become members, the company can add some promotions on the membership enrollment.
 * The majority of riders are adults in the age range of 30 and 50. Therefore, the marketing team can create even where to invite people with other age ranges. This will be a motivation to obtain more customers.
 * The day of the week with maximum rides is Saturday for casual riders. Therefore, this day can be used to reach out to these riders and talk to them about the benefits of membership.
+
+<br>
 
 **Thank you for taking the time to read this report!**
 

@@ -14,13 +14,13 @@
    * [Donation by State](#bystate)
    * [Top 10 Cities by Donation](#top10cities)
 8. [Recommendations](#recommendations)
-   a. [Targeted Donor Engagement](#targetdonor)
-   b. [Geographic Focus](#geographicfocus)
-   c. [Yearly Trends and Campaign Timing](#yearlytrendsandcampaigntiming)
-   d. [Demographic-Specific Campaigns](#peryear)
-   e. [Donor Retention and Recognition](#donorretentionandrecognition)
-   f. [Enhancing Donation Channels](#enhancingdonationchannels)
-   g. [Community Involvement and Awareness](#communityinvolvementandawareness)
+   * [Targeted Donor Engagement](#targetdonor)
+   * [Geographic Focus](#geographicfocus)
+   * [Yearly Trends and Campaign Timing](#yearlytrendsandcampaigntiming)
+   * [Demographic-Specific Campaigns](#peryear)
+   * [Donor Retention and Recognition](#donorretentionandrecognition)
+   * [Enhancing Donation Channels](#enhancingdonationchannels)
+   * [Community Involvement and Awareness](#communityinvolvementandawareness)
 
 ## Introduction
 This donation analysis report aims to provide a comprehensive overview of an organization's fundraising efforts, donor engagement, and donation patterns. By analyzing the data collected from various fundraising campaigns and donor interactions, this report seeks to identify key trends, strengths, and areas for improvement in donation strategies. Understanding these elements will enable organizations to optimize their fundraising efforts, enhance donor relationships, and ultimately increase the overall effectiveness of their philanthropic initiatives. Through this analysis, I aim to gain valuable insights that will inform organizations' future strategies and ensure the sustainability and growth of their mission.

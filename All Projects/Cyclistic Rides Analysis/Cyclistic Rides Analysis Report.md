@@ -86,11 +86,11 @@ I chose **Excel** to clean the data because it is easy to use and the dataset is
   * `Mode of day_of_week: =MODE(E2:E32767)`, this gave `5`
      
 * A pivot table was created to quickly calculate and visualize the data.
-  * I calculated the `average ride_length` for members and casual riders by adding `member_casual` under `Rows` and `ride_length` under `Values` and selecting *Average* from the `Values Field Settings`.
+  * I calculated the `average ride_length` for members and casual riders by adding `member_casual` under `Rows` and `ride_length` under `Values` and selecting `Average` from the `Values Field Settings`.
   * I calculated the `average ride_length` for users by `day_of_week` by adding `day_of_week` under `Columns`, `member_casual` under `Rows`, and `Average` of `ride_length` under `Values`
   * I calculated the `number of rides` for users by `day_of_week` by adding `Count of ride_id` to `Values`.
 
-* Performing these descriptive analysis steps helped make some initial observations such as, the day with the most rides is *Thursday*. The table below was designed to show the difference between casual riders and members.
+* Performing these descriptive analysis steps helped make some initial observations such as the day with the most rides is `Thursday`. The table below was designed to show the difference between casual riders and members.
 
 |      Calculations     |      Casual Riders    | Members |
 | :-------------: | :-------------: | :-------------: |

@@ -1,14 +1,30 @@
 # Project: Netflix Content Analysis
 
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Business Overview/Problem](#businessoverview/problem)
+3. [Rationale for the Project](#rationalefortheproject)
+4. [Aim of the Project](#aimoftheproject)
+5. [Data Description](#datdescription)
+6. [Tech Stack](#techstack)
+7. [Project Scope](#projectscope)
+   * [Data Gathering and Integration](#datagatheringandintegration)
+   * [Data Cleaning](#datacleaning)
+   * [Data Analysis In Excel](#dataanalysisinexcel)
+   * [Dashboard Development](#dashboarddevelopment)
+   * [Data Analysis and Visualization](#dataanalysisandvisualization)
+8. [Data Interpretation](#datainterpretation)
+9. [Recommendations](#recommendations)
+
 ## Introduction 
 This project provides a profound learning experience in data analytics by utilizing real-world data from Netflix to assess content from 2008 to 2021. Through Excel, I construct a dynamic and interactive dashboard designed for sophisticated reporting. This task involves leveraging both intermediate and advanced Excel functions to interpret complex data sets effectively. Completing this project enriched my analytical skills, enhancing my ability to navigate and make sense of intricate data landscapes.
 
-### Business Overview/Problem
+## Business Overview/Problem
 Netflix has been providing content to its customers. It has over 8000 movies or TV shows available on its platform, and as of mid-2021, they have over 200M Subscribers globally. The key obstacles the company encounters include:
 1. **Limited Data Analysis**: The lack of data analysis tools hinders the company's ability to gain insights into customer preferences and country trends.
 2. **Resource Allocation**: Netflix struggles to allocate resources efficiently in each country, leading to customer dissatisfaction.
 
-### Rationale for the Project
+## Rationale for the Project
 1. **Basic Data Insights**: Enable the company to obtain fundamental data insights, including watched trends, product performance, and customer preferences.
 2. **Cost-Efficiency**: Provide a cost-efficient solution that aligns with the company's budget constraints while delivering essential data analysis capabilities.
 3. **Streamlined Resource Allocation**: Improve resource allocation by leveraging data-driven decisions to maximize customer satisfaction.
@@ -42,27 +58,29 @@ This dataset consists of listings of all the movies and TV shows available on Ne
 The analysis tool for this project is basic and focused on data analysis using Microsoft Excel. I utilize Excel's built-in features like pivot tables and charts to analyze content data.
 
 ## Project Scope
-* **Data Gathering and Integration**
+
+### Data Gathering and Integration
   1. Download Netflix content data from Kaggle.
   2. Store the data in a secure folder for further steps.
 
-* **Data Cleaning**: To clean the data, I will
+### Data Cleaning
+To clean the data, I will
   1. Check Nulls across all columns
   2. Remove duplicates 
   3. Populate missing rows where necessary
   4. Delete unneeded columns
   5. Split columns appropriately where necessary
 
-* **Data Analysis In Excel**
+### Data Analysis In Excel
   1. Utilize Excel's built-in features like pivot tables and charts to analyze content data.
   2. Identify customers’ preferences.
   3. Identify trends by visualizing data through simple charts and graphs.
  
-* **Dashboard Development**
+### Dashboard Development
   1. Create an Excel-based dashboard to provide an overview of content.
   2. Include key metrics and charts to monitor watched trends by type, country, and content category.
 
-* **Data Analysis and Visualization**
+### Data Analysis and Visualization
 The analysis was performed in Excel. To do so,  
 *	I created Pivot tables using data from each field. This helped me summarize data by category and obtain simple tables that will be used to create visuals. 
 *	I created several charts such as Bar charts, Line charts, a pie chart, a Map, and Stacked Bar charts.
@@ -90,7 +108,11 @@ The analysis was performed in Excel. To do so,
 4.	Expand Global Presence: With most content originating from the U.S., expanding production in other regions, especially in Asia and Europe, could help cater to local preferences and increase global viewership.
 5.	Targeted Marketing: Given the dominance of TV-MA ratings, Netflix could tailor its marketing efforts to highlight mature content while ensuring parental controls and family-friendly content are also emphasized to cater to diverse audiences.
 6.	Capitalize on Most Watched Categories: Netflix should consider creating more original content in its top-viewed categories. For example, focusing on cross-genre content that blends drama, international films, and documentaries could drive engagement.
-   
+
+
+<br/>
+
+
 **Thank you for taking the time to read this report!**
 
 **Please reach out for any updates.**

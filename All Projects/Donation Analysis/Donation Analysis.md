@@ -1,5 +1,27 @@
 # Project: Donations Analysis 
 
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Project Aim](#projectaim)
+3. [Project Description](#projectdescription)
+4. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
+5. [Data Cleaning and Processing](#datacleaningandprocessing)
+6. [Data Analysis and Visualization](#dataanalysisandvisualization)
+7. [Interpretation](#interpretation)
+   a. [Top 5 Donors by Donation Amount and Donor Potential](#top5donors)
+   b. [Donation Per Demographic Class](#perdemographicclass)
+   c. [Donation Per Year](#peryear)
+   d. [Donation by State](#bystate)
+   e. [Top 10 Cities by Donation](#top10cities)
+8. [Recommendations](#recommendations)
+   a. [Targeted Donor Engagement](#targetdonor)
+   b. [Geographic Focus](#geographicfocus)
+   c. [Yearly Trends and Campaign Timing](#yearlytrendsandcampaigntiming)
+   d. [Demographic-Specific Campaigns](#peryear)
+   e. [Donor Retention and Recognition](#donorretentionandrecognition)
+   f. [Enhancing Donation Channels](#enhancingdonationchannels)
+   g. [Community Involvement and Awareness](#communityinvolvementandawareness)
+
 ## Introduction
 This donation analysis report aims to provide a comprehensive overview of an organization's fundraising efforts, donor engagement, and donation patterns. By analyzing the data collected from various fundraising campaigns and donor interactions, this report seeks to identify key trends, strengths, and areas for improvement in donation strategies. Understanding these elements will enable organizations to optimize their fundraising efforts, enhance donor relationships, and ultimately increase the overall effectiveness of their philanthropic initiatives. Through this analysis, I aim to gain valuable insights that will inform organizations' future strategies and ensure the sustainability and growth of their mission.
 
@@ -18,7 +40,7 @@ I will derive the following insights from this data such as trends, patterns, an
 *	Identify the year of maximum donations.
   
 Here is what I did:
-### 1.	Data Acquisition and Preparation
+## Data Acquisition and Preparation
 The data were obtained from the Tableau website. MeriSKILL provided data. I downloaded the dataset as a .csv file and uploaded it in Tableau Prep for cleaning and transformation purposes. This dataset had 9 columns in total and was recorded for the years *2013* to *2017*.
 *	Donor Potential: Classification of donor potential (e.g., High, Medium, Low, Not Specified).
 *	Donor Name: Name of the donor.
@@ -30,7 +52,7 @@ The data were obtained from the Tableau website. MeriSKILL provided data. I down
 *	Donation Date: Date of the donation.
 *	Donation Amount: Amount donated
 
-### 2.	Data Transformation and Cleaning
+## Data Transformation and Cleaning
 To clean the data, I used *Tableau Prep* as follows: 
 *	Uploaded the downloaded dataset by connecting to the data. 
 *	Renamed fields for consistency, filtered blanks, removed duplicates, combined data per categories, and edited values accordingly. 
@@ -39,7 +61,7 @@ To clean the data, I used *Tableau Prep* as follows:
 *	Profiled and explored my data before analysis to know what to expect from the analysis.
 *	Lastly, I output the cleaned data as a .hyper file. 
 
-### 3.	Data Analysis and Visualization
+## Data Analysis and Visualization
 The analysis was performed in Tableau Desktop. To do so,  
 *	I Launched Tableau Desktop and connected the cleaned data. 
 *	I created charts in several sheets such as Bar charts, a Line chart, a pie chart, a Map, a side-by-side bar chart, and Stacked Bar charts.
@@ -52,8 +74,9 @@ The analysis was performed in Tableau Desktop. To do so,
 </figure>
 <br/><br/> 
 
-### 4.	Interpretation of Data
+## Interpretation of Data
 The Donation Analysis dashboard provides a comprehensive overview of donation patterns across different dimensions. Here’s a detailed interpretation:
+
 #### a. Top 5 Donors by Donation Amount and Donor Potential
 *	**High Potential Donors**: Kim Weiss is the top donor in this category, followed by Caroline Mor, Eleanor Swain, Bonnie Matt, and Herbert Hold. These donors have shown the most consistent and significant increase in donations over the years (2013-2017).
 *	**Medium Potential Donors**: Kim Weiss is again the top donor, followed by Eleanor Swain and Bonnie Matt. 
@@ -76,7 +99,7 @@ The Donation Analysis dashboard provides a comprehensive overview of donation pa
 *	Miami: The city with the highest donation.
 *	Atlanta, Charlotte: Other significant contributors.
 
-### 5.	Recommendations
+## Recommendations
 #### a. Targeted Donor Engagement
 * High Potential Donors:
   * Kim Weiss has shown consistently high contributions across different potentials. Personalized engagement strategies and recognition programs can ensure sustained support.
@@ -119,6 +142,10 @@ The Donation Analysis dashboard provides a comprehensive overview of donation pa
   * Partner with local businesses and influencers to promote fundraising campaigns and events.
 
 By focusing on these recommendations, the organization can maximize its fundraising potential, build stronger relationships with donors, and ensure sustainable support for its initiatives.
+
+
+<br/>
+
 
 **Thank you for taking the time to read this report!**
 

@@ -140,7 +140,7 @@ Now that I have finished creating my visualizations, I can act on my findings. T
 * The majority of riders are adults in the age range of 30 and 50. Therefore, the marketing team can create even where to invite people with other age ranges. This will be a motivation to obtain more customers.
 * The day of the week with maximum rides is Saturday for casual riders. Therefore, this day can be used to reach out to these riders and talk to them about the benefits of membership.
 
-![Cyclistic Ride Analysis Video.mp4](https://github.com/user-attachments/assets/2d5ce08c-39ff-4f98-a047-d1c5d362aa4b)
+![Cyclistic Ride Analysis Interactive Dashboard.mp4](https://github.com/user-attachments/assets/2acc1b7f-d49e-4c22-b842-0466dd4a2dae)
 
 <br/><br/>
 

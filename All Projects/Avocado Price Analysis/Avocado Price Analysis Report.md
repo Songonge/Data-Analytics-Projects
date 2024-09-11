@@ -56,7 +56,8 @@ The three top recommendations based on my analysis are:
 *	Both organic and conventional avocado types have similar bags sold per year. Therefore, it does not matter which type you choose to invest in.
 
 
-<br/>
+
+<br/><br/>
 
 **Thank you for taking the time to read this report!**
 

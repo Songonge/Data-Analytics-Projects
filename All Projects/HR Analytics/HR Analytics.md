@@ -48,7 +48,7 @@ The first row of the data was used as headers using the option Use First Row as 
 In Power BI, I used Visualizations to create five dashboards. The first dashboard about **HR Attrition** provides an overview of all four dashboards I created. This is shown in Figure 1.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/HR Attrition Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/HR Analytics/HR Attrition - Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure 1: HR Attrition Dashboard</figcaption>
 </figure>
 <br/><br/>

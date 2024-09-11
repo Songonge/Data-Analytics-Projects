@@ -82,6 +82,11 @@ Based on the insights from the sales analysis, here are several recommendations 
   
 By implementing these recommendations, the organization can optimize its sales strategies, improve inventory management, enhance customer experience, and maximize revenue across different periods and locations. 
 
+<figure>
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Sales Analysis/Sales Analysis Video.mp4" width=100% height=100% alt="alt text">
+  <figcaption>Figure: Sales Analysis Interactive Dashboard</figcaption>
+</figure>
+<br/><br/>
 
 <br/><br/>
 **Thank you for taking the time to read this report!** 

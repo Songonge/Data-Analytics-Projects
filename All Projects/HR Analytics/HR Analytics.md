@@ -1,5 +1,20 @@
 # Project: HR Analytics
 
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Project Aim](#projectaim)
+3. [Project Description](#projectdescription)
+4. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
+5. [Data Cleaning and Transformation](#datacleaningandtransformation)
+6. [Data Analysis and Visualization](#dataanalysisandvisualization)
+   * [HR Attrition Dashboard](#hrattritiondashboard)
+   * [Demographic Dashboard](#loanamountbygrade)
+   * [Turnover Analysis I Dashboard](#turnoveranalysisIdashboard)
+   * [Turnover Analysis II Dashboard](#turnoveranalysisIIdashboard)
+   * [Employee Wellness Dashboard](#employeewellnessdashboard)
+7. [Interpretation of Data](#interpretationofdata)
+8. [Recommendations](#recommendations)
+   
 ## Introduction
 This project about HR Analytics focuses on data analytics which aims at evaluating the current human resources practices within the organization, identifying key areas for improvement, and providing actionable recommendations aimed at enhancing workforce efficiency, employee satisfaction, and overall organizational performance. Power Query in Power BI will be used to clean and transform the data. Then, dashboards will be built to communicate critical insights.
 
@@ -15,11 +30,10 @@ The following are the deliverables from this project:
 *	Implementation plan with timelines and resource requirements.
 *	Presentation to key stakeholders summarizing the report's findings and recommendations.
   
-Below are the tasks I performed:
-### 1.	Data Acquisition and Preparation
+## Data Acquisition and Preparation
 MeriSKILL provided the dataset. I downloaded it from Google Drive. Then, I uploaded it in Power BI using the Get Data option. This dataset was unclean and had 35 columns and 1471 rows. 
 
-### 2.	Data Transformation and Cleaning
+## Data Cleaning and Transformation 
 The first row of the data was used as headers using the option Use First Row as Headers under the Home tab. Then, using the Transform tab, I selected Detect Data Type to automatically identify the data type of each column and convert them where needed. Next, I
 •	Deleted redundant columns: this reduced the columns to 26.
 •	Renamed the columns appropriately.
@@ -28,9 +42,9 @@ The first row of the data was used as headers using the option Use First Row as 
 •	Removed the NaN (Not a Number) values from the dataset.
 •	Checked for some more Transformations to ensure the remaining data was ready for analysis.
 
-### 3.	Data Analysis and Visualization
+## Data Analysis and Visualization
 
-#### A. HR Attrition Dashboard
+### HR Attrition Dashboard
 In Power BI, I used Visualizations to create five dashboards. The first dashboard about **HR Attrition** provides an overview of all four dashboards I created. This is shown in Figure 1.
 
 <figure>
@@ -39,7 +53,7 @@ In Power BI, I used Visualizations to create five dashboards. The first dashboar
 </figure>
 <br/><br/>
 
-#### B. Demographics Dashboard
+### Demographics Dashboard
 The second dashboard about Demographics summarizes employee statistics is shown in Figure 2. The following steps were performed. 
 1.	I calculated the total number of employees.
 2.	I created a clustered bar chart for total attrition by the education field.
@@ -53,7 +67,7 @@ Summing all the 1s gave the total of 237 attrition count. Then, subtracting this
 </figure>
 <br/><br/>
 
-#### C. Turnover Analysis I Dashboard
+### Turnover Analysis I Dashboard
 The third and fourth dashboards about Turnover Analysis I and II contain details about employee attrition. The steps below were performed:
 1.	Created a stacked bar chart for Total attrition by job role distinguishing males and females.
 2.	Created a stacked column chart for Total attrition by business travel.
@@ -67,7 +81,7 @@ The third and fourth dashboards about Turnover Analysis I and II contain details
 </figure>
 <br/><br/>
 
-#### D. Turnover Analysis II Dashboard
+### Turnover Analysis II Dashboard
 The fourth dashboard about Turnover Analysis II contains additional details about employee attrition. The dashboard is shown in Figure 4. I performed the steps below:
 1.	Created a clustered column chart for total attrition by age and gender.
 2.	Created a pie chart for total attrition by performance and rating.
@@ -81,7 +95,7 @@ The fourth dashboard about Turnover Analysis II contains additional details abou
 </figure>
 <br/><br/>
 
-#### E. Employee Wellness Dashboard
+### Employee Wellness Dashboard
 The fifth dashboard about Employee Wellness focuses on employee satisfaction regarding several factors. Figure 5 presents the dashboard which was built following the steps below:
 1.	Created a clustered column chart for Total attrition by environmental satisfaction. Note that Environmental satisfaction was rated on a scale ranging from 1 to 4 (1 for "Very Dissatisfied," 2 for "Dissatisfied," 3 for "Satisfied," and 4 for "Very Satisfied").
 2.	Created a clustered bar chart for Total attrition by job involvement. The job involvement was also grouped (1 for "Very Low," 2 for "Low," 3 for "Moderate," and 4 for "High").
@@ -98,7 +112,7 @@ The fifth dashboard about Employee Wellness focuses on employee satisfaction reg
 > [!NOTE]
 > In these dashboards, grouping played a crucial role in organizing and presenting data effectively. The design of the dashboards was tailored to utilize the power of grouping for enhanced data visualization and analysis.
 
-### 4.	Interpretation of Data
+## Interpretation of Data
 The following insights were derived from the data analysis:
 *	Many employees traveled rarely.
 *	There was a correlation between the hourly rate and the daily rate.
@@ -107,7 +121,7 @@ The following insights were derived from the data analysis:
 *	The majority of employees were between 31-45 years old.
 *	Most employees who rated “Good” for Work-Life Balance were female.
 
-### 7.	Recommendations
+## Recommendations
 Based on the insights from the HR analysis report, here are several recommendations I derived to address the identified trends and enhance employee satisfaction and organizational efficiency:
 *	Since many employees traveled rarely and those living nearby were more active, the organization should consider expanding flexible remote work options to improve work-life balance and reduce commuting stress.
 *	Promote initiatives that encourage local engagement and activities for employees who live nearby, as this group shows higher activity levels and environmental satisfaction. 
@@ -121,6 +135,8 @@ Based on the insights from the HR analysis report, here are several recommendati
 
 By implementing these recommendations, the organization can address key insights from the HR analysis, leading to a more satisfied, efficient, and productive workforce.
 
+
+<br/><br/>
 **Thank you for taking the time to read this report!**
 
 **Please reach out for any updates.**

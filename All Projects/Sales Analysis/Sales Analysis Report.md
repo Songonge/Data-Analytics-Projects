@@ -66,7 +66,7 @@ I used a
 The following insights were derived from the data analysis:
 *	The top five products by sales count were the iPhone, 27in 4K Gaming Monitor, Google Phone, MacBook Pro Laptop, and ThinkPad Laptop.  
 *	The top five best-selling products were  AAA Batteries (4-pack), AA Batteries (4-pack), USB-C Charging Cable, Lightning Charging Cable, and Wired Headphones.
-*	The day of most sales was Tuesday and the one of minimum sales was Thursday.
+*	The day of most sales was Tuesday and the minimum sales was on Thursday.
 *	 December was the month with major sales. On the contrary, January was the month with lower sales followed by February. 
 *	The top five cities with the most sales were Los Angeles, San Francisco, Atlanta, New York City, and Boston.
 
@@ -82,11 +82,11 @@ Based on the insights from the sales analysis, here are several recommendations 
   
 By implementing these recommendations, the organization can optimize its sales strategies, improve inventory management, enhance customer experience, and maximize revenue across different periods and locations. 
 
-<figure>
+<!-- <figure>
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Sales Analysis/Sales Analysis Video.mp4" width=100% height=100% alt="alt text">
   <figcaption>Figure: Sales Analysis Interactive Dashboard</figcaption>
 </figure>
-<br/><br/>
+<br/><br/> -->
 
 <br/><br/>
 **Thank you for taking the time to read this report!** 

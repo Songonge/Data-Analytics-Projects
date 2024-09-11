@@ -1,5 +1,15 @@
 # Project: Sales Analysis in some Cities in the United States
 
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Project Aim](#projectaim)
+3. [Project Description](#projectdescription)
+4. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
+5. [Data Cleaning and Transformation](#datacleaningandtransformation)
+6. [Data Analysis and Visualization](#dataanalysisandvisualization)
+7. [Interpretation of Data](#interpretationofdata)
+8. [Recommendations](#recommendations)
+
 ## Introduction
 This project about Sales Analysis is one of the projects offered by MeriSKILL as part of an internship. The project is focused on data analytics and is carefully planned to reveal patterns and insights hidden in complex datasets. I will be using Power BI to facilitate the extraction of critical insights.
 
@@ -18,10 +28,10 @@ The following bullets list the insights I will derive through my data analysis p
   
 Here is what I did:
 
-### 1.	Data Acquisition and Preparation
+## Data Acquisition and Preparation
 MeriSKILL provided data. I downloaded the dataset from *Google Drive*. Then, I uploaded it in Power BI using the *Get Data* option. This dataset was unclean and had 10 columns in total. The data were recorded for the year *2019*.
 
-### 2.	Data Transformation and Cleaning
+## Data Cleaning and Transformation
 The first row of the data was used as headers using the option *Use First Row as Headers* under the Home tab. Then, using the *Transform* tab, I selected *Detect Data Type* to automatically identify the data type of each column and convert them where needed.
 * Next, I split the fourth column named *Order Date* into date and time stamps. I
   * selected the column named *Order Date*. 
@@ -34,11 +44,11 @@ The first row of the data was used as headers using the option *Use First Row as
   * The profit margin using the formula: `Profit Margin = ([Total Sales]-[Total Cost])/[Total Sales])*100`
   * The total sales using the formula: `Total Sales = SUM('Sales Data'[Sales])`
     
-### 3.	Data Analysis and Visualization
+## Data Analysis and Visualization
 In Power BI, I used Visualizations to create a dashboard as shown in the figure below. 
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Sales Analysis/Sales Analysis Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Sales Analysis/Sales Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Sales Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>
@@ -52,7 +62,7 @@ I used a
 *	Cards to display the sum of all sales, the total sales quantity, and the profit margin. The "Format" option for the visual was used to adjust the callout value to change the display unit of the quantity ordered as desired.
 *	My charts were assembled and made interactive through the use of Slicers to display cities, months, days, and products.
 
-### 4.	Interpretation of Data
+## Interpretation of Data
 The following insights were derived from the data analysis:
 *	The top five products by sales count were the iPhone, 27in 4K Gaming Monitor, Google Phone, MacBook Pro Laptop, and ThinkPad Laptop.  
 *	The top five best-selling products were  AAA Batteries (4-pack), AA Batteries (4-pack), USB-C Charging Cable, Lightning Charging Cable, and Wired Headphones.
@@ -60,7 +70,7 @@ The following insights were derived from the data analysis:
 *	 December was the month with major sales. On the contrary, January was the month with lower sales followed by February. 
 *	The top five cities with the most sales were Los Angeles, San Francisco, Atlanta, New York City, and Boston.
 
-### 5.	Recommendations
+## Recommendations
 Based on the insights from the sales analysis, here are several recommendations to enhance sales strategies and optimize performance:
 *	Ensure ample inventory of the top five products by sales count (iPhone, 27in 4K Gaming Monitor, Google Phone, MacBook Pro Laptop, and ThinkPad Laptop) and best-selling products (AAA Batteries, AA Batteries, USB-C Charging Cable, Lightning Charging Cable, and Wired Headphones) to meet high demand and prevent stockouts. 
 *	Develop marketing campaigns and promotions focused on these top products to further boost sales and capitalize on their popularity.
@@ -72,6 +82,8 @@ Based on the insights from the sales analysis, here are several recommendations 
   
 By implementing these recommendations, the organization can optimize its sales strategies, improve inventory management, enhance customer experience, and maximize revenue across different periods and locations. 
 
+
+<br/><br/>
 **Thank you for taking the time to read this report!** 
 
 **Please reach out for any updates.**

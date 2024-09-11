@@ -46,7 +46,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Month.png" width=50% height=50% alt="alt text">
   <figcaption>Figure 1: Total Loan Amount Over Time </figcaption>
 </figure>
-<br/><br/>
+<br/>
 
   * Total loan amounts across all states have fluctuated substantially over the past few years. 
   * Loan balances typically peak in December of each year, coinciding with holiday spending. 
@@ -60,7 +60,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Grade.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 2: Loan Amount by Grade</figcaption>
 </figure>
-<br/><br/>
+<br/>
 
   * Borrowers with credit grades of A, B, and C, carried the highest total loan amounts, with Bgrade having $44,834,450 outstanding loans. This suggests that individuals with fair-to-good credit are utilizing loan programs more than those with lower credit scores.  
   * Borrowers with grades of E, F, and G had significantly lower total loan balances, with Ggrade having just $1,689,225 in debt.  
@@ -72,7 +72,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Purpose.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 3: Loan Amount by Purpose </figcaption>
 </figure>
-<br/><br/>
+<br/>
 
   * Small business, house, and debt consolidation loans accounted for the majority of loan purposes, with totals of 35,000, 35,000, and 32,000 respectively.  
   * Educational and car loans also represented sizable portions at 15,350 and 14,400.  
@@ -85,12 +85,18 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan By State.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 4: Total Loan Amount by State</figcaption>
 </figure>
-<br/><br/>
+<br/>
 
   * The FILLED_MAP graph shows Total Loan Amount by State and provides valuable context to analyze differences in loan trends across geographic regions.  
   * This visual aids in accomplishing the section objective by highlighting for stakeholders how total debt levels vary between locations. 
   * Additional insights may help address the user’s goal of providing recommendations on better debt consolidation and lowering loan interest rates in specific states.  
-  * By examining loan patterns between states uncovered in the data, opportunities could emerge to tailor financial wellness solutions and messaging to particular audiences. 
+  * By examining loan patterns between states uncovered in the data, opportunities could emerge to tailor financial wellness solutions and messaging to particular audiences.
+
+<figure>
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan Analysis Dashboard.png" width=50% height=50% alt="alt text">
+  <figcaption>Figure 5: Loan Analysis Dashboard</figcaption>
+</figure>
+<br/>
 
 ## Recommendations
 

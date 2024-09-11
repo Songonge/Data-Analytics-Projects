@@ -24,19 +24,19 @@ This project is a hands-on training experience to build powerful business use ca
 ## Objective
 Provide an overview of residential mortgage lending in 2022 based on the data collected under the Home Mortgage Disclosure Act (HMDA).
 The report summarizes: 
-*	Mortgage applications and originations, characteristics of home loans originated.
-*	Denial rates of mortgage applications in 2022.
-*	Monthly trends and activities of the mortgage market in 2022 including total applications.
-*	Trends in interest rates and their impact on payment burdens
-*	Breakdown of lending institutions that reported data under the HMDA in 2022 and their market shares.
+* Mortgage applications and originations, characteristics of home loans originated.
+* Denial rates of mortgage applications in 2022.
+* Monthly trends and activities of the mortgage market in 2022 including total applications.
+* Trends in interest rates and their impact on payment burdens
+* Breakdown of lending institutions that reported data under the HMDA in 2022 and their market shares.
 
 ## Data Acquisition and Preparation
 Data were collected under the Home Mortgage Disclosure Act (HMDA) and provided by AWS. This dataset was already cleaned and had 14 columns in total.
 
 ## Data Processing
 The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That is because Amazon Q in Amazon QuickSight enhances business productivity using Generative BI capabilities to accelerate decision-making. It also allows delivering easy-to-understand insights to your colleagues, no matter where they are. Moreover, it combines different data sources into one analysis and publishes/shares it as a dashboard.
-*	To begin with, the Amazon Q application was created and Amazon Q in QuickSight was configured. 
-*	Then the dataset was added by uploading the Sample_Top_Respondents file (previously downloaded).
+* To begin with, the Amazon Q application was created and Amazon Q in QuickSight was configured. 
+* Then the dataset was added by uploading the Sample_Top_Respondents file (previously downloaded).
 
 ## Data Analysis and Visualization
 
@@ -46,7 +46,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Month.png" width=50% height=50% alt="alt text">
   <figcaption>Figure 1: Total Loan Amount Over Time </figcaption>
 </figure>
-<br/>
+<br/><br/>
 
   * Total loan amounts across all states have fluctuated substantially over the past few years. 
   * Loan balances typically peak in December of each year, coinciding with holiday spending. 
@@ -60,7 +60,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Grade.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 2: Loan Amount by Grade</figcaption>
 </figure>
-<br/>
+<br/><br/>
 
   * Borrowers with credit grades of A, B, and C, carried the highest total loan amounts, with Bgrade having $44,834,450 outstanding loans. This suggests that individuals with fair-to-good credit are utilizing loan programs more than those with lower credit scores.  
   * Borrowers with grades of E, F, and G had significantly lower total loan balances, with Ggrade having just $1,689,225 in debt.  
@@ -72,7 +72,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Amount by Purpose.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 3: Loan Amount by Purpose </figcaption>
 </figure>
-<br/>
+<br/><br/>
 
   * Small business, house, and debt consolidation loans accounted for the majority of loan purposes, with totals of 35,000, 35,000, and 32,000 respectively.  
   * Educational and car loans also represented sizable portions at 15,350 and 14,400.  
@@ -85,7 +85,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan By State.png" width=75% height=75% alt="alt text">
   <figcaption>Figure 4: Total Loan Amount by State</figcaption>
 </figure>
-<br/>
+<br/><br/>
 
   * The FILLED_MAP graph shows Total Loan Amount by State and provides valuable context to analyze differences in loan trends across geographic regions.  
   * This visual aids in accomplishing the section objective by highlighting for stakeholders how total debt levels vary between locations. 
@@ -93,7 +93,7 @@ The tool I used to perform the analysis was Amazon Q in Amazon QuickSight. That 
   * By examining loan patterns between states uncovered in the data, opportunities could emerge to tailor financial wellness solutions and messaging to particular audiences.
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan Analysis Dashboard.png" width=50% height=50% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All Projects/Loan Analysis/Loan Analysis Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure 5: Loan Analysis Dashboard</figcaption>
 </figure>
 <br/>
@@ -115,11 +115,11 @@ Virtual Financial Counseling offers a personalized approach to resolving debt-re
 ### Call to Action
 It is time for change. By utilizing the resources now available, individuals can take important steps to better their financial future and ease the burden of debt. With tools for guidance and support, audiences hold the power to chart a new course toward greater financial wellness.
 
-##	Conclusion
+## Conclusion
 The presentation provided a comprehensive analysis of loan trends in different states and regions. By exploring patterns in total debt levels, loan purposes, and credit attributes, several opportunities were identified to help more individuals and communities access financial tools and resources to reduce debt burdens sustainably.
  
 
-<br/>
+<br/><br/>
 
 **Thank you for taking the time to read this report!** 
 

@@ -5,7 +5,7 @@
 2. [Project Aim](#projectaim)
 3. [Project Description](#project-description)
 4. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
-5. [Data Cleaning and Processing](#data-cleaning-and-processing)
+5. [Data Cleaning and Processing](#data-cleaning-and-transformation)
 6. [Data Analysis and Visualization](#data-analysis-and-visualization)
 7. [Interpretation](#interpretation)
    * [Top 5 Donors by Donation Amount and Donor Potential](#top-5-donors)
@@ -52,7 +52,7 @@ The data were obtained from the Tableau website. MeriSKILL provided data. I down
 *	Donation Date: Date of the donation.
 *	Donation Amount: Amount donated
 
-## Data Transformation and Cleaning
+## Data Cleaning and Transformation
 To clean the data, I used *Tableau Prep* as follows: 
 *	Uploaded the downloaded dataset by connecting to the data. 
 *	Renamed fields for consistency, filtered blanks, removed duplicates, combined data per categories, and edited values accordingly. 

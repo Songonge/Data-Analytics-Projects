@@ -14,7 +14,7 @@
    * [Donation by State](#d-donation-by-state)
    * [Top 10 Cities by Donation](#e-top-10-cities-by-donation)
 8. [Recommendations](#a-recommendations)
-   * [Targeted Donor Engagement](#b-target-donor-engagement)
+   * [Targeted Donor Engagement](#b-targeted-donor-engagement)
    * [Geographic Focus](#c-geographic-focus)
    * [Yearly Trends and Campaign Timing](#d-yearly-trends-and-campaign-timing)
    * [Demographic-Specific Campaigns](#e-demographic-specific-campains)

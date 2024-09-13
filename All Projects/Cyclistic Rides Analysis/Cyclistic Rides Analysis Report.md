@@ -4,7 +4,7 @@
 1. [Introduction](#introduction)
 2. [Problem](#problem)
 3. [Project Aim](#project-aim)
-4. [Business Task](#busines-stask)
+4. [Business Task](#business-task)
    * [Project Objective](#project-objective)
    * [Project Scope](#project-scope)
    * [Key Questions](#key-questions)

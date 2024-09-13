@@ -8,7 +8,7 @@
 5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 6. [Data Analysis and Visualization](#data-analysis-and-visualization)
 7. [Interpretation of Data](#interpretation-of-data)
-   * [Top 5 Donors by Donation Amount and Donor Potential](#a.-top-5-donors-by-donation-amount-and-donor-potential) 
+   * [Top 5 Donors by Donation Amount and Donor Potential](#a-top-5-donors-by-donation-amount-and-donor-potential) 
    * [Donation Per Demographic Class](#donation-per-demographic-class)
    * [Donation Per Year](#donation-per-year)
    * [Donation by State](#donation-by-state)

@@ -8,7 +8,7 @@
 5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 6. [Data Analysis and Visualization](#data-analysis-and-visualization)
    * [HR Attrition Dashboard](#hr-attrition-dashboard)
-   * [Demographic Dashboard](#demographic-dashboard)
+   * [Demographic Dashboard](#demographics-dashboard)
    * [Turnover Analysis I Dashboard](#turnover-analysis-I-dashboard)
    * [Turnover Analysis II Dashboard](#turnover-analysis-II-dashboard)
    * [Employee Wellness Dashboard](#employee-wellness-dashboard)

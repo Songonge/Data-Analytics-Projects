@@ -2,17 +2,17 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Project Aim](#projectaim)
-3. [Project Description](#projectdescription)
-4. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
-5. [Data Cleaning and Transformation](#datacleaningandtransformation)
-6. [Data Analysis and Visualization](#dataanalysisandvisualization)
-   * [HR Attrition Dashboard](#hrattritiondashboard)
-   * [Demographic Dashboard](#loanamountbygrade)
-   * [Turnover Analysis I Dashboard](#turnoveranalysisIdashboard)
-   * [Turnover Analysis II Dashboard](#turnoveranalysisIIdashboard)
-   * [Employee Wellness Dashboard](#employeewellnessdashboard)
-7. [Interpretation of Data](#interpretationofdata)
+2. [Project Aim](#project-aim)
+3. [Project Description](#project-description)
+4. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
+5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+6. [Data Analysis and Visualization](#data-analysis-and-visualization)
+   * [HR Attrition Dashboard](#hr-attrition-dashboard)
+   * [Demographic Dashboard](#demographic-dashboard)
+   * [Turnover Analysis I Dashboard](#turnover-analysis-I-dashboard)
+   * [Turnover Analysis II Dashboard](#turnover-analysis-II-dashboard)
+   * [Employee Wellness Dashboard](#employee-wellness-dashboard)
+7. [Interpretation of Data](#interpretation-of-data)
 8. [Recommendations](#recommendations)
    
 ## Introduction

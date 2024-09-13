@@ -2,24 +2,24 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Business Overview/Problem](#business-overview-problem)
-3. [Rationale for the Project](#rationalefortheproject)
-4. [Aim of the Project](#aimoftheproject)
-5. [Data Description](#datdescription)
-6. [Tech Stack](#techstack)
-7. [Project Scope](#projectscope)
-   * [Data Gathering and Integration](#datagatheringandintegration)
-   * [Data Cleaning](#datacleaning)
-   * [Data Analysis In Excel](#dataanalysisinexcel)
-   * [Dashboard Development](#dashboarddevelopment)
-   * [Data Analysis and Visualization](#dataanalysisandvisualization)
-8. [Data Interpretation](#datainterpretation)
+2. [Business Overview or Problem](#business-overview-or-problem)
+3. [Rationale for the Project](#rationale-for-the-project)
+4. [Aim of the Project](#aim-of-the-project)
+5. [Data Description](#data-description)
+6. [Tech Stack](#tech-stack)
+7. [Project Scope](#project-scope)
+   * [Data Gathering and Integration](#data-gathering-and-integration)
+   * [Data Cleaning](#data-cleaning)
+   * [Data Analysis In Excel](#data-analysis-in-excel)
+   * [Dashboard Development](#dashboard-development)
+   * [Data Analysis and Visualization](#data-analysis-and-visualization)
+8. [Data Interpretation](#data-interpretation)
 9. [Recommendations](#recommendations)
 
 ## Introduction 
 This project provides a profound learning experience in data analytics by utilizing real-world data from Netflix to assess content from 2008 to 2021. Through Excel, I construct a dynamic and interactive dashboard designed for sophisticated reporting. This task involves leveraging both intermediate and advanced Excel functions to interpret complex data sets effectively. Completing this project enriched my analytical skills, enhancing my ability to navigate and make sense of intricate data landscapes.
 
-## Business Overview/Problem
+## Business Overview or Problem
 Netflix has been providing content to its customers. It has over 8000 movies or TV shows available on its platform, and as of mid-2021, they have over 200M Subscribers globally. The key obstacles the company encounters include:
 1. **Limited Data Analysis**: The lack of data analysis tools hinders the company's ability to gain insights into customer preferences and country trends.
 2. **Resource Allocation**: Netflix struggles to allocate resources efficiently in each country, leading to customer dissatisfaction.

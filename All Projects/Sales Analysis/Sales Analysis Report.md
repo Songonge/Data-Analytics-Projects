@@ -2,12 +2,12 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Project Aim](#projectaim)
-3. [Project Description](#projectdescription)
-4. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
-5. [Data Cleaning and Transformation](#datacleaningandtransformation)
-6. [Data Analysis and Visualization](#dataanalysisandvisualization)
-7. [Interpretation of Data](#interpretationofdata)
+2. [Project Aim](#project-aim)
+3. [Project Description](#project-description)
+4. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
+5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+6. [Data Analysis and Visualization](#data-analysis-and-visualization)
+7. [Interpretation of Data](#interpretation-of-data)
 8. [Recommendations](#recommendations)
 
 ## Introduction

@@ -2,11 +2,11 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Data Acquisition and Preparation](#dataacquisitionandpreparation)
-3. [Data Cleaning](#datacleaning)
-4. [Data Processing](#dataprocessing)
-5. [Data Analysis and Visualization](#dataanalysisandvisualization)
-6. [Data Interpretation](#datainterpretation)
+2. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
+3. [Data Cleaning](#data-cleaning)
+4. [Data Processing](#data-processing)
+5. [Data Analysis and Visualization](#data-analysis-and-visualization)
+6. [Data Interpretation](#data-interpretation)
 7. [Recommendations](#recommendations)
 
 

@@ -5,7 +5,7 @@
 2. [Project Aim](#projectaim)
 3. [Project Description](#project-description)
 4. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
-5. [Data Cleaning and Processing](#data-cleaning-and-transformation)
+5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 6. [Data Analysis and Visualization](#data-analysis-and-visualization)
 7. [Interpretation](#interpretation)
    * [Top 5 Donors by Donation Amount and Donor Potential](#top-5-donors)

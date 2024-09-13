@@ -17,7 +17,7 @@
    * [Targeted Donor Engagement](#a-targeted-donor-engagement)
    * [Geographic Focus](#b-geographic-focus)
    * [Yearly Trends and Campaign Timing](#c-yearly-trends-and-campaign-timing)
-   * [Demographic-Specific Campaigns](#d-demographic--specific-campains)
+   * [Demographic-Specific Campaigns](#d-demographic-specific-campaigns)
    * [Donor Retention and Recognition](#e-donor-retention-and-recognition)
    * [Enhancing Donation Channels](#f-enhancing-donation-channels)
    * [Community Involvement and Awareness](#g-community-involvement-and-awareness)

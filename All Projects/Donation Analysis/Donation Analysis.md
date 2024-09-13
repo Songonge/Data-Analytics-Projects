@@ -8,7 +8,7 @@
 5. [Data Cleaning and Transformation](#data-cleaning-and-transformation)
 6. [Data Analysis and Visualization](#data-analysis-and-visualization)
 7. [Interpretation of Data](#interpretation-of-data)
-   * [Top 5 Donors by Donation Amount and Donor Potential](#top-5-donors-by-donation-amount-and-donor-potential) 
+   * [Top 5 Donors by Donation Amount and Donor Potential](#a.-top-5-donors-by-donation-amount-and-donor-potential) 
    * [Donation Per Demographic Class](#donation-per-demographic-class)
    * [Donation Per Year](#donation-per-year)
    * [Donation by State](#donation-by-state)
@@ -77,7 +77,7 @@ The analysis was performed in Tableau Desktop. To do so,
 ## Interpretation of Data
 The Donation Analysis dashboard provides a comprehensive overview of donation patterns across different dimensions. Here’s a detailed interpretation:
 
-#### Top 5 Donors by Donation Amount and Donor Potential
+#### a. Top 5 Donors by Donation Amount and Donor Potential
 *	**High Potential Donors**: Kim Weiss is the top donor in this category, followed by Caroline Mor, Eleanor Swain, Bonnie Matt, and Herbert Hold. These donors have shown the most consistent and significant increase in donations over the years (2013-2017).
 *	**Medium Potential Donors**: Kim Weiss is again the top donor, followed by Eleanor Swain and Bonnie Matt. 
 *	**Low Potential Donors**: Kim Weiss remains significant, with contributions from Caroline Mor, Eleanor Swain, Bonnie Matt, and Herbert Hold.

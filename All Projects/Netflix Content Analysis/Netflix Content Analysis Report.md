@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 1. [Introduction](#introduction)
-2. [Business Overview/Problem](#businessoverview/problem)
+2. [Business Overview/Problem](#business-overview-problem)
 3. [Rationale for the Project](#rationalefortheproject)
 4. [Aim of the Project](#aimoftheproject)
 5. [Data Description](#datdescription)

@@ -183,7 +183,7 @@ Risk Category =  IF(Project1[CreditAmount] > 5000, "High Risk", "Low Risk")
 </figure>
 <br/><br/>
 
-Here is the [Link to the Interactive Dashboard](https://app.powerbi.com/groups/me/reports/51802354-0728-493c-a791-61f810ddab40?ctid=92454335-564e-4ccf-b0b0-24445b8c03f7&pbi_source=linkShare).
+Here is the [Link to the Interactive Dashboard](https://app.powerbi.com/groups/me/reports/25b71013-82ea-423e-b684-e57c5b89c366?ctid=92454335-564e-4ccf-b0b0-24445b8c03f7&pbi_source=linkShare).
  
 ## Insights from the Data Analysis
 1. **Total Credit Distribution by Purpose**  

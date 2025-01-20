@@ -22,7 +22,7 @@
 This project is the first project launched by DataBeez for interested candidates to participate in a technical test as part of their recruitment process for the profile of Data Scientist/Analyst with skills in modeling, development, and data visualization.
 
 ## Project Description
-The project involves the analysis of credit scoring for the German Credit Data. The tasks to be completed are as folllows:  
+The project involves the analysis of credit scoring for the German Credit Data. The tasks to be completed are as follows:  
 1. Explore the data to look for the greatest correlations with whether or not credit is granted
 2. Develop a credit scoring prediction model.
 3. Create a Dockerfile for deployment.
@@ -30,28 +30,28 @@ The project involves the analysis of credit scoring for the German Credit Data. 
 5. Create an interactive dashboard via Power BI or Looker Studio to visualize the model results.
 
 ## About the Dataset
-The dataset was downloaded from Kaggle using the link provided by the Recruitment Team. It contains 1000 entries with 20 categorial/symbolic attributes prepared by Prof. Hofmann. In this dataset, each entry represents a person who takes a credit by a bank. Each person is classified as good or bad credit risks according to the set of attributes.  
+The dataset was downloaded from Kaggle using the link provided by the Recruitment Team. It contains 1000 entries with 20 categorial/symbolic attributes prepared by Prof. Hofmann. In this dataset, each entry represents a person who takes credit from a bank. Each person is classified as having good or bad credit risks according to the set of attributes.  
 [Link to the dataset](https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk?resource=download)
 
-The dataset was made of 1000 rows and 11 columns with demographic and financial information. The column are described as follows:
+The dataset was made of 1000 rows and 11 columns with demographic and financial information. The columns are described as follows:
 * *Age*: The age of the person asking for credit
 * *Sex*: The sex of the person asking for credit
 * *Job*: The job category of the person asking for credit
 * *Housing*: The status of the housing of the person asking for credit
-* *Saving accounts*: The saving account owned by of the person asking for credit
-* *Checking account*: The checking account owned by of the person asking for credit
+* *Saving accounts*: The saving account owned by the person asking for credit
+* *Checking account*: The checking account owned by the person asking for credit
 * *Credit amount*: The credit amount the person asking for credit
-* *Duration*: Duration of the credit in month
+* *Duration*: Duration of the credit in a month
 * *Purpose*: Purpose for the credit
 
 ## Importing the Dataset to the Database
 To import the dataset to the SQL Server database, I proceeded as follows:  
-* Launched the database and connected the to it
+* Launched the database and connected to it
 * Right-clicked on the database name > selected Tasks > selected Import data from the menu
 * In the new window that appears, I clicked on Next
-* Used the drop down menu and selected Flat File Source > Next
+* Used the drop-down menu and selected Flat File Source > Next
 * Clicked on Browse > selected the file from my computer > Open
-* Selected Microsoft OLE DB Provider for SQL Server from the drop down menu > Next > Next > Finish  
+* Selected Microsoft OLE DB Provider for SQL Server from the drop-down menu > Next > Next > Finish  
 The above steps successfully imported the dataset into my database in SQL Server.
 
 ## Preparation of the Dataset: Cleaning and Transforming
@@ -123,7 +123,7 @@ FROM [DataBeez].dbo.Project1;
 
 ## Importing the Cleaned Data to Power BI where to Analyse it  
 After launching Power BI, I connected to the data as follows:  
-* Clicked on Get data under the Home tab within the Data group
+* Clicked on Get Data under the Home tab within the Data group
 * Selected SQL Server from the list
 * Entered the Server name and the database name in each cell
 * Clicked on OK. This opened a popup window.
@@ -175,10 +175,10 @@ Risk Category =  IF(Project1[CreditAmount] > 5000, "High Risk", "Low Risk")
 * Created donut charts to showcase the credit amount by risk category and housing.
 * Created donut charts to showcase the percentage of good vs. bad credit risk.
 * Used cards to show the total credit amount, average credit amount, total number of people who applied for credit, the average age, and the average credit duration. 
-* Used slicers for sex, housing, credit risk, and risk category to make the dashboard interactive.
+* Used slicers for sex, housing, credit risk, and risk categories to make the dashboard interactive.
 
 <figure>
-  <img src="https://github.com/ekd001/Hack2Hire_TestTech_DataScience_4/blob/main/Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All%20Projects/Credit%20Scoring/Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Credit Scoring Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>
@@ -198,7 +198,7 @@ Here is the [Link to the Interactive Dashboard](https://app.powerbi.com/groups/m
 
 3. **Savings and Checking Accounts vs. Credit Amount**  
    * *Observation*:
-     * Borrowers with little saving accounts took the highest credit amount ($2.03M), followed by those with moderate savings ($543K).
+     * Borrowers with little savings accounts took the highest credit amount ($2.03M), followed by those with moderate savings ($543K).
      * Similarly, borrowers with little checking accounts account for the largest credit amount ($1.42M).
    * *Insight*: Borrowers with minimal financial reserves (savings or checking) are receiving the majority of the loans, which could lead to a higher default risk.
 4. **Credit by Age and Duration**  
@@ -208,7 +208,7 @@ Here is the [Link to the Interactive Dashboard](https://app.powerbi.com/groups/m
    * *Insight*: The age group 20–40 is highly active in borrowing. Longer durations could lead to repayment challenges for certain risk categories.
 5. **Housing Status and Credit Distribution**  
    * *Observation*:
-     * Borrowers with own housing account for the largest share of credit ($1.94M), followed by those renting ($494K) and those with free housing ($452K).
+     * Borrowers who own housing account for the largest share of the credit ($1.94M), followed by those renting ($494K) and those with free housing ($452K).
    * *Insight*: Housing ownership correlates with a higher credit share, which may indicate a lower default likelihood compared to renters.
 
 ## Recommendations from the Data Analysis
@@ -224,7 +224,7 @@ Here is the [Link to the Interactive Dashboard](https://app.powerbi.com/groups/m
 5.	**Housing and Credit Policy**  
    * For renters and those with "free housing," introduce additional collateral requirements or pre-approval processes to mitigate risk.
 6.	**Enhanced Monitoring of 'Bad Risk' Loans**  
-   * Use predictive analytics to identify early warning signals for borrowers categorized as "bad risk" and implement intervention strategies (e.g., repayment reminders, restructuring options).
+   * Use predictive analytics to identify early warning signals for borrowers categorized as "bad risk" and implement intervention strategies (e.g., repayment reminders, and restructuring options).
 
 ## Conclusion
 The dashboard reveals that a large portion of loans are issued to younger borrowers (20–40 years old) with minimal financial reserves and are concentrated in car-related purposes. While most borrowers fall under the "good risk" category, a significant proportion are still high-risk borrowers.

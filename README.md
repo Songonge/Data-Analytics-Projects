@@ -6,3 +6,4 @@ This repository contains personal data analytics projects. The following project
 3. Donation Analysis
 4. Loan Analysis
 5. Netflix Content Analysis
+6. Credit Scoring Analysis
